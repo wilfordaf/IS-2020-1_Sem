@@ -1,0 +1,7 @@
+put hello privet
+put bye poka
+put y zzzzz
+get hello
+get bye
+delete hello
+get hello
